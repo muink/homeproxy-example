@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "instant.arubanetworks.com",
+        "setmeup.arubanetworks.com",
+        "www.asusrouter.com",
+        "router.asus.com",
+        "routerlogin.net",
+        "www.routerlogin.net",
+        "mywifiext.net",
+        "www.mywifiext.net",
+        "miwifi.com",
+        "tplogin.cn",
+        "tplinkwifi.net",
+        "tendawifi.com",
+        "phicomm.me",
+        "router.ctc",
+        "localhost.ptlogin2.qq.com",
+        "localhost.sec.qq.com",
+        "localhost.wwbizsrv.alibaba.com"
+      ],
+      "domain_regex": [
+        "^localhost\\..+"
+      ]
+    }
+  ]
+}

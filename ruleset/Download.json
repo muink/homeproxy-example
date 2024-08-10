@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "dl.google.com",
+        "downloads.openwrt.org",
+        "international-gfe.download.nvidia.com"
+      ],
+      "domain_suffix": [
+        ".steamcontent.com",
+        ".googlevideo.com",
+        ".googleusercontent.com"
+      ]
+    }
+  ]
+}

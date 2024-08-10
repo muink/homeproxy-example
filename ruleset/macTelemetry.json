@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "safebrowsing.googleapis.com",
+        "safebrowsing.urlsec.qq.com"
+      ]
+    }
+  ]
+}
